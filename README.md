@@ -11,6 +11,12 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kr.aman.jsr66@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=KrAman66&style=for-the-badge&color=004D99)](https://github.com/KrAman66)
 
+<br/>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Engineer+%7C+Full+Stack+Developer;Building+AI-Powered+SaaS+UIs;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+AWS;Figma+%E2%86%92+Production+%7C+30%2B+Features+Shipped;Always+learning+new+things&font=Fira+Code&center=true&width=600&height=50&color=004D99&vCenter=true&pause=1000&size=20" />
+</a>
+
 </div>
 
 ---
